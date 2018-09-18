@@ -1,6 +1,6 @@
 # Binary-Search-Tree
-Implementation of BST in Java using recursion
-This program performs basic operations in a binary tree 
+This program is an implementation of BST in Java using recursion.
+It performs basic operations in a Binary Search Tree. 
 1.Insertion an element in a tree. 
 2.Deleting an element in a tree. 
 3.Searching for a value in a tree.
